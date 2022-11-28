@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./index.html", "./src/**/*.{js,vue}"],
   theme: {
-    extend: {},
+    fontFamily: {
+      squada: ["Squada One", "cursive"],
+      opensan: ["Open Sans", "sans-serif"]
+    },
+    extend: {}
   },
-  plugins: [],
+  plugins: []
 };
