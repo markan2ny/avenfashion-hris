@@ -4,6 +4,6 @@
 
 <template>
   <main>
-    <h1>HELLO WORLD</h1>
+    <h1 class="text-red-300 bg-purple-400">HELLO WORLD</h1>
   </main>
 </template>
